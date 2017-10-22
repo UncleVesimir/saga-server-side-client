@@ -1,0 +1,8 @@
+.form-control {
+  margin-bottom: 8px;
+}
+
+.error {
+  color:red;
+  margin-bottom: 5px;
+}
